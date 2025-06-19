@@ -4,6 +4,8 @@ date: 2024-02-01
 draft: false
 doi: https://doi.org/10.1016/j.jechem.2024.01.038
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Abdul Hanan
   - Hafiz Taimoor Ahmed Awan
@@ -14,8 +16,6 @@ authors:
   - Seema Singh
   - Mohammad Khalid
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

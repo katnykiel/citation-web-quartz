@@ -4,12 +4,12 @@ date: 2004-04-02
 draft: false
 doi: https://doi.org/10.1063/1.1668634
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Jochen Heyd
   - Gustavo E. Scuseria
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

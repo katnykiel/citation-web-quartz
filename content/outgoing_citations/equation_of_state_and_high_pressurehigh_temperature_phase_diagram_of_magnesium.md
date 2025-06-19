@@ -4,6 +4,8 @@ date: 2014-10-20
 draft: false
 doi: https://doi.org/10.1103/physrevb.90.134105
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - G. W. Stinton
   - S. G. MacLeod
@@ -14,8 +16,6 @@ authors:
   - Y. Meng
   - M. I. McMahon
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

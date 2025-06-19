@@ -4,6 +4,8 @@ date: 2017-09-27
 draft: false
 doi: https://doi.org/10.1088/1361-648x/aa8f79
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - P Giannozzi
   - O Andreussi
@@ -56,8 +58,6 @@ authors:
   - X Wu
   - S Baroni
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

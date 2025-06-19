@@ -4,6 +4,8 @@ date: 2018-05-31
 draft: false
 doi: https://doi.org/10.1021/acs.chemmater.8b00686
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Arunkumar Chitteth Rajan
   - Avanish Mishra
@@ -13,8 +15,6 @@ authors:
   - Kwang-Ryeol Lee
   - Abhishek K. Singh
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2024-06-07
 draft: false
 doi: https://doi.org/10.1126/sciadv.adk0306
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - June K. Wicks
   - Saransh Singh
@@ -18,8 +20,6 @@ authors:
   - Thomas S. Duffy
   - Raymond F. Smith
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

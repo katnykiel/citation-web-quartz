@@ -4,14 +4,14 @@ date: 2020-10-01
 draft: false
 doi: https://doi.org/10.1557/mrs.2020.251
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Weichen Hong
   - Brian C. Wyatt
   - Srinivasa Kartik Nemani
   - Babak Anasori
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

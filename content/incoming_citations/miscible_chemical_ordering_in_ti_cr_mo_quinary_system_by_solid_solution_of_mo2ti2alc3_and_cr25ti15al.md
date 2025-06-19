@@ -4,6 +4,8 @@ date: 2025-03-27
 draft: false
 doi: https://doi.org/10.1038/s41467-025-58242-2
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Cheng-Feng Du
   - Chuanchao Wang
@@ -16,8 +18,6 @@ authors:
   - Xuqing Liu
   - Hong Yu
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2018-06-10
 draft: false
 doi: https://doi.org/10.1002/adma.201802011
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Ziliang Chen
   - Renbing Wu
@@ -14,8 +16,6 @@ authors:
   - Miao Liu
   - Fang Fang
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

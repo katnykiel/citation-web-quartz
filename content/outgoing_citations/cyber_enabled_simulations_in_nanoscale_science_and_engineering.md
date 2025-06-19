@@ -4,13 +4,13 @@ date: 2010-03-01
 draft: false
 doi: https://doi.org/10.1109/mcse.2010.38
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Alejandro Strachan
   - Gerhard Klimeck
   - Mark Lundstrom
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

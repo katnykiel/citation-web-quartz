@@ -4,12 +4,12 @@ date: 2022-06-17
 draft: false
 doi: https://doi.org/10.1021/acs.inorgchem.2c00537
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Shuohan Huang
   - Vadym N. Mochalin
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

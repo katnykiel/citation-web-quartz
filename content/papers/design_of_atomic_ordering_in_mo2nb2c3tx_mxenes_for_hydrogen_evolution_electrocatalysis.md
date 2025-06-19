@@ -4,6 +4,8 @@ date: 2023-01-26
 draft: false
 doi: https://doi.org/10.1021/acs.nanolett.2c04287
 enableToc: false
+tags:
+  - my-work
 authors:
   - Brian C. Wyatt
   - Anupma Thakur
@@ -15,8 +17,6 @@ authors:
   - Alejandro Strachan
   - Babak Anasori
 ---
-
-[[tags/my-work]]
 
 
 ## Authors

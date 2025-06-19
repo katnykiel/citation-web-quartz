@@ -4,11 +4,11 @@ date: 1947-06-01
 draft: false
 doi: https://doi.org/10.1103/physrev.71.809
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Francis Birch
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

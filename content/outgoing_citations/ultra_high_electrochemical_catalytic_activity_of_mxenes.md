@@ -4,11 +4,11 @@ date: 2016-09-08
 draft: false
 doi: https://doi.org/10.1038/srep32531
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Hui Pan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,12 +4,12 @@ date: 1987-01-12
 draft: false
 doi: https://doi.org/10.1103/physrevlett.58.86
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Robert H. Swendsen
   - Jian-Sheng Wang
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

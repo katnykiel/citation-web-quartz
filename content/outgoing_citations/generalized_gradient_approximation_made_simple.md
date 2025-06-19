@@ -4,13 +4,13 @@ date: 1996-10-28
 draft: false
 doi: https://doi.org/10.1103/physrevlett.77.3865
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - John P. Perdew
   - Kieron Burke
   - Matthias Ernzerhof
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

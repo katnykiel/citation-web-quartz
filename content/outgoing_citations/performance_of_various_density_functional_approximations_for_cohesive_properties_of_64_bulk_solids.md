@@ -4,14 +4,14 @@ date: 2018-05-25
 draft: false
 doi: https://doi.org/10.1088/1367-2630/aac7f0
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Guo-Xu Zhang
   - Anthony M Reilly
   - Alexandre Tkatchenko
   - Matthias Scheffler
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

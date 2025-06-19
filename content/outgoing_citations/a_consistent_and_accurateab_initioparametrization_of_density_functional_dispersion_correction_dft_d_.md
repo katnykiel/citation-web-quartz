@@ -4,14 +4,14 @@ date: 2010-04-16
 draft: false
 doi: https://doi.org/10.1063/1.3382344
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Stefan Grimme
   - Jens Antony
   - Stephan Ehrlich
   - Helge Krieg
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

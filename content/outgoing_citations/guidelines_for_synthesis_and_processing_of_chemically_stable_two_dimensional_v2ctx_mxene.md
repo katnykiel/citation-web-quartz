@@ -4,6 +4,8 @@ date: 2021-12-29
 draft: false
 doi: https://doi.org/10.1021/acs.chemmater.1c03508
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Kyle Matthews
   - Teng Zhang
@@ -11,8 +13,6 @@ authors:
   - Armin VahidMohammadi
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,11 +4,11 @@ date: 1992-04-01
 draft: false
 doi: https://doi.org/10.1111/j.1151-2916.1992.tb04149.x
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Haruo Arashi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

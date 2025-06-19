@@ -4,12 +4,12 @@ date: 2023-10-02
 draft: false
 doi: https://doi.org/10.5281/zenodo.8400682
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Kat Nykiel
   - Alejandro Strachan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

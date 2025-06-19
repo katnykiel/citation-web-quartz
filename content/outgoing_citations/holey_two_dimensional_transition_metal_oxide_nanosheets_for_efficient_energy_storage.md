@@ -4,6 +4,8 @@ date: 2017-04-26
 draft: false
 doi: https://doi.org/10.1038/ncomms15139
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Lele Peng
   - Pan Xiong
@@ -16,8 +18,6 @@ authors:
   - Khalil Amine
   - Guihua Yu
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

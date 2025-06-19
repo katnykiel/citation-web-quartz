@@ -4,13 +4,13 @@ date: 2021-07-22
 draft: false
 doi: https://doi.org/10.1021/acsnano.1c04326
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Brian Hyun-jong Lee
   - Nicholas A. Kotov
   - Gaurav Arya
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

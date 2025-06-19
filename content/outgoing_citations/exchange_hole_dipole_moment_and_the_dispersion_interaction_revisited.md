@@ -4,12 +4,12 @@ date: 2007-10-18
 draft: false
 doi: https://doi.org/10.1063/1.2795701
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Axel D. Becke
   - Erin R. Johnson
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

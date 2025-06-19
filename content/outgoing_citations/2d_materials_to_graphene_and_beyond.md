@@ -4,14 +4,14 @@ date: 2010-09-16
 draft: false
 doi: https://doi.org/10.1039/c0nr00323a
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Rubén Mas-Ballesté
   - Cristina Gómez-Navarro
   - Julio Gómez-Herrero
   - Félix Zamora
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

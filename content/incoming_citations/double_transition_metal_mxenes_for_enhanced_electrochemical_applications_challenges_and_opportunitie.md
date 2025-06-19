@@ -4,6 +4,8 @@ date: 2024-09-01
 draft: false
 doi: https://doi.org/10.1002/eom2.12485
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Faiza Bibi
   - Abdul Hanan
@@ -11,8 +13,6 @@ authors:
   - Arshid Numan
   - Mohammad Khalid
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

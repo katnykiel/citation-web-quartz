@@ -4,6 +4,8 @@ date: 2020-12-30
 draft: false
 doi: https://doi.org/10.3390/pr9010071
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Outi M. H. Salo-Ahen
   - Ida Alanko
@@ -25,8 +27,6 @@ authors:
   - Kalaimathy Singaravelu
   - Michiel Vanmeert
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,12 +4,12 @@ date: 1996-10-15
 draft: false
 doi: https://doi.org/10.1103/physrevb.54.11169
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - G. Kresse
   - J. Furthmüller
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

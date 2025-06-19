@@ -4,6 +4,8 @@ date: 2014-10-01
 draft: false
 doi: https://doi.org/10.1038/nature13792
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Wenzhuo Wu
   - Lei Wang
@@ -18,8 +20,6 @@ authors:
   - James Hone
   - Zhong Lin Wang
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

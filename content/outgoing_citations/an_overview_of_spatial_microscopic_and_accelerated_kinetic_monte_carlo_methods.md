@@ -4,12 +4,12 @@ date: 2007-02-27
 draft: false
 doi: https://doi.org/10.1007/s10820-006-9042-9
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Abhijit Chatterjee
   - Dionisios G. Vlachos
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

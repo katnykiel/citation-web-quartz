@@ -4,13 +4,13 @@ date: 2021-03-18
 draft: false
 doi: https://doi.org/10.1002/adma.202007973
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Brian C. Wyatt
   - Andreas Rosenkranz
   - Babak Anasori
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

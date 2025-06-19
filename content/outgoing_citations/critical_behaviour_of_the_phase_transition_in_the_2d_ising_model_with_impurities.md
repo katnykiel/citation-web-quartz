@@ -4,12 +4,12 @@ date: 1983-01-01
 draft: false
 doi: https://doi.org/10.1080/00018738300101541
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Viktor S. Dotsenko
   - Vladimir S. Dotsenko
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

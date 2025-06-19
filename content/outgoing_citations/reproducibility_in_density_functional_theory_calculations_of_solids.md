@@ -4,6 +4,8 @@ date: 2016-03-24
 draft: false
 doi: https://doi.org/10.1126/science.aad3000
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Kurt Lejaeghere
   - Gustav Bihlmayer
@@ -75,8 +77,6 @@ authors:
   - Guo-Xu Zhang
   - Stefaan Cottenier
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

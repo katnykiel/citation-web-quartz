@@ -4,13 +4,13 @@ date: 2018-01-01
 draft: false
 doi: https://doi.org/10.1039/c8nr00513c
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Weiwei Sun
   - Yu Xie
   - Paul R. C. Kent
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2014-12-09
 draft: false
 doi: https://doi.org/10.1080/21663831.2014.975294
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - El'ad N. Caspi
   - Patrick Chartier
@@ -11,8 +13,6 @@ authors:
   - Françoise Damay
   - Thierry Cabioc'h
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

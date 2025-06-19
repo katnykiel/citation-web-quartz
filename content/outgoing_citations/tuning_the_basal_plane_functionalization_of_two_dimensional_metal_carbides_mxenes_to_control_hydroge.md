@@ -4,6 +4,8 @@ date: 2017-12-20
 draft: false
 doi: https://doi.org/10.1021/acsaem.7b00054
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Albertus D. Handoko
   - Kurt D. Fredrickson
@@ -14,8 +16,6 @@ authors:
   - Aleksandra Vojvodic
   - Zhi Wei Seh
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

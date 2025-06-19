@@ -4,6 +4,8 @@ date: 2024-11-14
 draft: false
 doi: https://doi.org/10.1016/j.jece.2024.114812
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Basiru O. Yusuf
   - Mustapha Umar
@@ -16,8 +18,6 @@ authors:
   - Khalid R. Alhooshani
   - Saheed A. Ganiyu
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

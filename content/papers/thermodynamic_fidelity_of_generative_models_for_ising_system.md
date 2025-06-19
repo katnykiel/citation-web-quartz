@@ -4,6 +4,8 @@ date: 2025-03-24
 draft: false
 doi: https://doi.org/10.1063/5.0251876
 enableToc: false
+tags:
+  - my-work
 authors:
   - Brian H. Lee
   - Kat Nykiel
@@ -11,8 +13,6 @@ authors:
   - Brice Rider
   - Alejandro Strachan
 ---
-
-[[tags/my-work]]
 
 
 ## Authors

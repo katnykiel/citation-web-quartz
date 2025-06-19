@@ -4,6 +4,8 @@ date: 2008-04-04
 draft: false
 doi: https://doi.org/10.1103/physrevlett.100.136406
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - John P. Perdew
   - Adrienn Ruzsinszky
@@ -14,8 +16,6 @@ authors:
   - Xiaolan Zhou
   - Kieron Burke
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

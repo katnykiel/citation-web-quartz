@@ -4,6 +4,8 @@ date: 2024-01-01
 draft: false
 doi: https://doi.org/10.1039/d4ra03714f
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Md. Shahinoor Alam
   - Mohammad Asaduzzaman Chowdhury
@@ -13,8 +15,6 @@ authors:
   - Md. Moynul Islam
   - Md. Kamrul Hasan
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

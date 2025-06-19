@@ -4,6 +4,8 @@ date: 2023-09-30
 draft: false
 doi: https://doi.org/10.1038/s41524-023-01134-0
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Chunyu Li
   - Juan Carlos Verduzco
@@ -11,8 +13,6 @@ authors:
   - Robert J. Appleton
   - Alejandro Strachan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

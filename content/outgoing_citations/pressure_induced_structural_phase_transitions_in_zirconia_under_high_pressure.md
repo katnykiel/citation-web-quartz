@@ -4,14 +4,14 @@ date: 1993-06-01
 draft: false
 doi: https://doi.org/10.1103/physrevb.47.14075
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - J. M. Leger
   - P. E. Tomaszewski
   - A. Atouf
   - A. S. Pereira
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

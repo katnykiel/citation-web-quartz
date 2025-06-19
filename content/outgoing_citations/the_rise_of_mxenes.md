@@ -4,12 +4,12 @@ date: 2019-08-27
 draft: false
 doi: https://doi.org/10.1021/acsnano.9b06394
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Yury Gogotsi
   - Babak Anasori
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,13 +4,13 @@ date: 1995-08-15
 draft: false
 doi: https://doi.org/10.1103/physrevb.52.r5467
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - A. I. Liechtenstein
   - V. I. Anisimov
   - J. Zaanen
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

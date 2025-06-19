@@ -4,6 +4,8 @@ date: 2015-09-03
 draft: false
 doi: https://doi.org/10.1063/1.4929640
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Babak Anasori
   - Martin Dahlqvist
@@ -18,8 +20,6 @@ authors:
   - Johanna Rosén
   - Michel W. Barsoum
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2009-04-10
 draft: false
 doi: https://doi.org/10.1103/physrevb.79.155107
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Gábor I. Csonka
   - John P. Perdew
@@ -14,8 +16,6 @@ authors:
   - Oleg A. Vydrov
   - János G. Ángyán
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

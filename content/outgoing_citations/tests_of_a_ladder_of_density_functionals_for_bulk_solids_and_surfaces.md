@@ -4,14 +4,14 @@ date: 2004-02-13
 draft: false
 doi: https://doi.org/10.1103/physrevb.69.075102
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Viktor N. Staroverov
   - Gustavo E. Scuseria
   - Jianmin Tao
   - John P. Perdew
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

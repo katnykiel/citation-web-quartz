@@ -4,6 +4,8 @@ date: 2016-02-04
 draft: false
 doi: https://doi.org/10.1002/advs.201500286
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Yu Zhong
   - Xinhui Xia
@@ -12,8 +14,6 @@ authors:
   - Jiangping Tu
   - Hong Jin Fan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

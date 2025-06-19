@@ -4,13 +4,13 @@ date: 2020-08-03
 draft: false
 doi: https://doi.org/10.1038/s41598-020-69848-5
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Nicholas Walker
   - Ka-Ming Tam
   - Mark Jarrell
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

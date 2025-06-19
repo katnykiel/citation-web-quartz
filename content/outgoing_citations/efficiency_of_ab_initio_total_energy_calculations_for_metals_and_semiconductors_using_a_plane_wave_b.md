@@ -4,12 +4,12 @@ date: 1996-07-01
 draft: false
 doi: https://doi.org/10.1016/0927-0256(96)00008-0
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - G. Kresse
   - J. Furthmüller
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

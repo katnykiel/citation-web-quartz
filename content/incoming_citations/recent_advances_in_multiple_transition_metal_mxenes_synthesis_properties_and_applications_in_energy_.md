@@ -4,6 +4,8 @@ date: 2025-04-07
 draft: false
 doi: https://doi.org/10.1016/j.est.2025.116419
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Sheng Zhou
   - Yunfeng Guan
@@ -15,8 +17,6 @@ authors:
   - Nianjun Yang
   - Ye Cong
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

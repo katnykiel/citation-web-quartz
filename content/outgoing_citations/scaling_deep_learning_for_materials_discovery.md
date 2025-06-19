@@ -4,6 +4,8 @@ date: 2023-11-29
 draft: false
 doi: https://doi.org/10.1038/s41586-023-06735-9
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Amil Merchant
   - Simon Batzner
@@ -12,8 +14,6 @@ authors:
   - Gowoon Cheon
   - Ekin Dogus Cubuk
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

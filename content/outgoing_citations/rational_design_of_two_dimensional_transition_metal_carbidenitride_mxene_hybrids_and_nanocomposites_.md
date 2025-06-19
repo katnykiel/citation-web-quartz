@@ -4,6 +4,8 @@ date: 2020-08-12
 draft: false
 doi: https://doi.org/10.1021/acsnano.0c05482
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Kang Rui Garrick Lim
   - Albertus D. Handoko
@@ -14,8 +16,6 @@ authors:
   - Babak Anasori
   - Zhi Wei Seh
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

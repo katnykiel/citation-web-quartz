@@ -4,6 +4,8 @@ date: 2019-05-13
 draft: false
 doi: https://doi.org/10.1021/acsanm.9b00286
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Christopher E. Shuck
   - Meikang Han
@@ -14,8 +16,6 @@ authors:
   - William E. B. Reil
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

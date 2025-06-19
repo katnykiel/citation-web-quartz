@@ -4,6 +4,8 @@ date: 2022-03-10
 draft: false
 doi: https://doi.org/10.1371/journal.pone.0264492
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Martin Hunt
   - Steven Clark
@@ -11,8 +13,6 @@ authors:
   - Saaketh Desai
   - Alejandro Strachan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

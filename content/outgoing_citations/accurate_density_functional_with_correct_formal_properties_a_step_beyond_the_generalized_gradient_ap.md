@@ -4,14 +4,14 @@ date: 1999-03-22
 draft: false
 doi: https://doi.org/10.1103/physrevlett.82.2544
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - John P. Perdew
   - Stefan Kurth
   - Aleš Zupan
   - Peter Blaha
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

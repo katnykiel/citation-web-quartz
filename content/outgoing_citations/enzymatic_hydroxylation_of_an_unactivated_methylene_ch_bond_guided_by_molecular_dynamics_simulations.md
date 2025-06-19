@@ -4,6 +4,8 @@ date: 2015-06-29
 draft: false
 doi: https://doi.org/10.1038/nchem.2285
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Alison R. H. Narayan
   - Gonzalo Jiménez-Osés
@@ -20,8 +22,6 @@ authors:
   - K. N. Houk
   - David H. Sherman
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

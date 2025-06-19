@@ -4,6 +4,8 @@ date: 2020-07-03
 draft: false
 doi: https://doi.org/10.1038/s41467-020-17199-0
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Zhilong Zheng
   - Liang Yu
@@ -21,8 +23,6 @@ authors:
   - Zhongqun Tian
   - Dehui Deng
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

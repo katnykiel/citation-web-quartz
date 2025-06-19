@@ -4,6 +4,8 @@ date: 2023-10-12
 draft: false
 doi: https://doi.org/10.1002/adma.202308030
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Dominique Laniel
   - Florian Trybel
@@ -28,8 +30,6 @@ authors:
   - Leonid Dubrovinsky
   - Natalia Dubrovinskaia
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,14 +4,14 @@ date: 2025-06-02
 draft: false
 doi: https://doi.org/10.1103/physrevb.111.214103
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Parker Hamilton
   - Rajiv Kalia
   - Ryan Wixom
   - Rémi Dingreville
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2001-03-05
 draft: false
 doi: https://doi.org/10.1063/1.1337623
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Vladimir L. Solozhenko
   - Denis Andrault
@@ -11,8 +13,6 @@ authors:
   - Mohamed Mezouar
   - David C. Rubie
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,12 +4,12 @@ date: 2009-02-20
 draft: false
 doi: https://doi.org/10.1103/physrevlett.102.073005
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Alexandre Tkatchenko
   - Matthias Scheffler
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,12 +4,12 @@ date: 2005-04-08
 draft: false
 doi: https://doi.org/10.1103/physrevb.71.134404
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Helmut G. Katzgraber
   - L. W. Lee
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2020-01-01
 draft: false
 doi: https://doi.org/10.1039/d0ta01798a
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - David Pinto
   - Babak Anasori
@@ -16,8 +18,6 @@ authors:
   - Husam N. Alshareef
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

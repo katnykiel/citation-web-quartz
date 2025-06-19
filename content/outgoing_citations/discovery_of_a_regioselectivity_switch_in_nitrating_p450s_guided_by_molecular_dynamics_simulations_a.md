@@ -4,6 +4,8 @@ date: 2016-03-21
 draft: false
 doi: https://doi.org/10.1038/nchem.2474
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Sheel C. Dodani
   - Gert Kiss
@@ -12,8 +14,6 @@ authors:
   - Vijay S. Pande
   - Frances H. Arnold
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

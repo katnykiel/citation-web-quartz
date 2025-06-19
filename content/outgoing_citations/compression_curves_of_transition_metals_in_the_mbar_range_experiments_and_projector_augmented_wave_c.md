@@ -4,14 +4,14 @@ date: 2008-09-03
 draft: false
 doi: https://doi.org/10.1103/physrevb.78.104102
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Agnès Dewaele
   - Marc Torrent
   - Paul Loubeyre
   - Mohamed Mezouar
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

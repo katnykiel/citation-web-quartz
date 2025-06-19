@@ -4,6 +4,8 @@ date: 2021-06-02
 draft: false
 doi: https://doi.org/10.1038/s41524-021-00550-4
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Zhoulan Zeng
   - Xingzhu Chen
@@ -13,8 +15,6 @@ authors:
   - Jizhou Jiang
   - Neng Li
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

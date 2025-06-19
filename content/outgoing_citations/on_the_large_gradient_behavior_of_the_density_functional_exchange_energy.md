@@ -4,11 +4,11 @@ date: 1986-12-15
 draft: false
 doi: https://doi.org/10.1063/1.451353
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - A. D. Becke
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

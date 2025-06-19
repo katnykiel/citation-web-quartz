@@ -4,6 +4,8 @@ date: 2024-05-02
 draft: false
 doi: https://doi.org/10.1016/j.mseb.2024.117403
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Xianghui Feng
   - Chao Zeng
@@ -13,8 +15,6 @@ authors:
   - Yonghong Cheng
   - Bing Xiao
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2025-03-28
 draft: false
 doi: https://doi.org/10.1038/s44160-025-00773-z
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Anupma Thakur
   - Wyatt J. Highland
@@ -27,8 +29,6 @@ authors:
   - Cong Liu
   - Babak Anasori
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

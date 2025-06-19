@@ -4,11 +4,11 @@ date: 2009-05-21
 draft: false
 doi: https://doi.org/10.1080/08957950802597239
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - William A. Bassett
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

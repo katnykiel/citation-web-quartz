@@ -4,12 +4,12 @@ date: 2019-01-01
 draft: false
 doi: https://doi.org/10.1039/c9nr04859f
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Brian Hyun-jong Lee
   - Gaurav Arya
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

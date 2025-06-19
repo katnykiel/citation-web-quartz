@@ -4,6 +4,8 @@ date: 2012-12-08
 draft: false
 doi: https://doi.org/10.1016/j.commatsci.2012.10.028
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Shyue Ping Ong
   - William Davidson Richards
@@ -16,8 +18,6 @@ authors:
   - Kristin A. Persson
   - Gerbrand Ceder
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

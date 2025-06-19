@@ -4,13 +4,13 @@ date: 2024-10-29
 draft: false
 doi: https://doi.org/10.1016/j.ccr.2024.216253
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Roham Ghanbari
   - Di Wu
   - Philippe M. Heynderickx
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

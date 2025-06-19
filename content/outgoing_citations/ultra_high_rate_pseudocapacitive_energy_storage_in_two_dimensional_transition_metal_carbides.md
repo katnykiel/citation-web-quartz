@@ -4,6 +4,8 @@ date: 2017-07-10
 draft: false
 doi: https://doi.org/10.1038/nenergy.2017.105
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Maria R. Lukatskaya
   - Sankalp Kota
@@ -17,8 +19,6 @@ authors:
   - Patrice Simon
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2013-07-01
 draft: false
 doi: https://doi.org/10.1063/1.4812323
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Anubhav Jain
   - Shyue Ping Ong
@@ -17,8 +19,6 @@ authors:
   - Gerbrand Ceder
   - Kristin A. Persson
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

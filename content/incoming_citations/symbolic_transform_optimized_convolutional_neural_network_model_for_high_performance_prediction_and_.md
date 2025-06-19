@@ -4,6 +4,8 @@ date: 2024-08-24
 draft: false
 doi: https://doi.org/10.1016/j.ijhydene.2024.08.355
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Sen Lu
   - Pei Song
@@ -21,8 +23,6 @@ authors:
   - Lingxia Jin
   - Hongkuan Yuan
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

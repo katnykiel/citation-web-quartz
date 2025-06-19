@@ -4,6 +4,8 @@ date: 2018-04-06
 draft: false
 doi: https://doi.org/10.1002/adma.201706409
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Rahele Meshkian
   - Martin Dahlqvist
@@ -22,8 +24,6 @@ authors:
   - Per O. Å. Persson
   - Johanna Rosen
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 1998-01-15
 draft: false
 doi: https://doi.org/10.1103/physrevb.57.1505
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - S. L. Dudarev
   - G. A. Botton
@@ -11,8 +13,6 @@ authors:
   - C. J. Humphreys
   - A. P. Sutton
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

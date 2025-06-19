@@ -4,14 +4,14 @@ date: 1968-01-01
 draft: false
 doi: https://doi.org/10.1063/1.1655752
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - William A. Bassett
   - Taro Takahashi
   - Ho-Kwang Mao
   - J. Scott Weaver
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2020-11-13
 draft: false
 doi: https://doi.org/10.1021/acsnano.0c08671
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Kang Rui Garrick Lim
   - Albertus D. Handoko
@@ -16,8 +18,6 @@ authors:
   - Aleksandra Vojvodic
   - Zhi Wei Seh
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2022-01-01
 draft: false
 doi: https://doi.org/10.1039/d1nh00621e
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Yinggan Zhang
   - Zhou Cui
@@ -12,8 +14,6 @@ authors:
   - Jian Zhou
   - Zhimei Sun
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

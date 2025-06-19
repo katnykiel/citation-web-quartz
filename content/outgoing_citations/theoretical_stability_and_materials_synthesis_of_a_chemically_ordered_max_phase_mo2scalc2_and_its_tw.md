@@ -4,6 +4,8 @@ date: 2016-12-28
 draft: false
 doi: https://doi.org/10.1016/j.actamat.2016.12.008
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Rahele Meshkian
   - Quanzheng Tao
@@ -12,8 +14,6 @@ authors:
   - Lars Hultman
   - Johanna Rosen
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

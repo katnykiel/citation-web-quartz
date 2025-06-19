@@ -4,6 +4,8 @@ date: 1990-10-01
 draft: false
 doi: https://doi.org/10.1103/physrevb.42.6736
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Hui Xia
   - G. Parthasarathy
@@ -11,8 +13,6 @@ authors:
   - Yogesh K. Vohra
   - Arthur L. Ruoff
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

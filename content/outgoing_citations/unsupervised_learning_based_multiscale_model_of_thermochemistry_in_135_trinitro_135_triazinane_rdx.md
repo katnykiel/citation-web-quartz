@@ -4,6 +4,8 @@ date: 2020-10-28
 draft: false
 doi: https://doi.org/10.1021/acs.jpca.0c07320
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Michael N. Sakano
   - Ahmed Hamed
@@ -14,8 +16,6 @@ authors:
   - Marisol Koslowski
   - Alejandro Strachan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

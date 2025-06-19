@@ -4,6 +4,8 @@ date: 2024-08-30
 draft: false
 doi: https://doi.org/10.1038/s41598-024-69194-w
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Simuck F. Yuk
   - Irmak Sargin
@@ -12,8 +14,6 @@ authors:
   - Scott P. Beckman
   - Valentino R. Cooper
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

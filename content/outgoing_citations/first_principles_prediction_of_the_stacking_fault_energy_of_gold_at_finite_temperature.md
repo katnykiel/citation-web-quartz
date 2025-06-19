@@ -4,12 +4,12 @@ date: 2017-06-08
 draft: false
 doi: https://doi.org/10.1016/j.actamat.2017.06.009
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Xiaoqing Li
   - Stephan Schönecker
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

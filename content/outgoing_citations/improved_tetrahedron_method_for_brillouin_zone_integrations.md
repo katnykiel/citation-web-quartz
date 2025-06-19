@@ -4,13 +4,13 @@ date: 1994-06-15
 draft: false
 doi: https://doi.org/10.1103/physrevb.49.16223
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Peter E. Blöchl
   - O. Jepsen
   - O. K. Andersen
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

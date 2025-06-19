@@ -4,13 +4,13 @@ date: 2006-01-13
 draft: false
 doi: https://doi.org/10.1103/physrevb.73.045110
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Myung Joon Han
   - Taisuke Ozaki
   - Jaejun Yu
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

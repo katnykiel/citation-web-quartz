@@ -4,14 +4,14 @@ date: 2003-09-30
 draft: false
 doi: https://doi.org/10.1103/physrevlett.91.146401
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Jianmin Tao
   - John P. Perdew
   - Viktor N. Staroverov
   - Gustavo E. Scuseria
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

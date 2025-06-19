@@ -4,6 +4,8 @@ date: 2011-08-22
 draft: false
 doi: https://doi.org/10.1002/adma.201102306
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Michael Naguib
   - Murat Kurtoglu
@@ -15,8 +17,6 @@ authors:
   - Yury Gogotsi
   - Michel W. Barsoum
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

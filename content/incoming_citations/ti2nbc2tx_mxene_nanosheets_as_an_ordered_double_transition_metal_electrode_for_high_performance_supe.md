@@ -4,6 +4,8 @@ date: 2025-04-25
 draft: false
 doi: https://doi.org/10.1021/acsanm.5c00663
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Fatma Nur Tuzluca Yesilbag
   - Yasar Ozkan Yesilbag
@@ -11,8 +13,6 @@ authors:
   - Ahmed Jalal Salih Salih
   - Mehmet Ertugrul
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

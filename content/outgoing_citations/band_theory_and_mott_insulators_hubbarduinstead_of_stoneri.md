@@ -4,13 +4,13 @@ date: 1991-07-15
 draft: false
 doi: https://doi.org/10.1103/physrevb.44.943
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Vladimir I. Anisimov
   - Jan Zaanen
   - Ole K. Andersen
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

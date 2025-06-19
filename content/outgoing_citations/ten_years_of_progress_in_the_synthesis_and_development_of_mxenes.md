@@ -4,13 +4,13 @@ date: 2021-08-16
 draft: false
 doi: https://doi.org/10.1002/adma.202103393
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Michael Naguib
   - Michel W. Barsoum
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

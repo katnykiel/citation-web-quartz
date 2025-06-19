@@ -4,6 +4,8 @@ date: 2015-01-01
 draft: false
 doi: https://doi.org/10.1126/science.1246501
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Francesco Bonaccorso
   - Luigi Colombo
@@ -14,8 +16,6 @@ authors:
   - Rodney S. Ruoff
   - Vittorio Pellegrini
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,14 +4,14 @@ date: 2024-06-24
 draft: false
 doi: https://doi.org/10.1073/pnas.2311810121
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Davide Ghio
   - Yatin Dandi
   - Florent Krzakala
   - Lenka Zdeborová
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

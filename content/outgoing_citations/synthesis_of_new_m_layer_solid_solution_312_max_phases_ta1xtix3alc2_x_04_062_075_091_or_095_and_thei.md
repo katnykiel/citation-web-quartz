@@ -4,6 +4,8 @@ date: 2021-01-01
 draft: false
 doi: https://doi.org/10.1039/d0ra09761f
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Maxwell T. P. Rigby-Bell
   - Varun Natu
@@ -19,8 +21,6 @@ authors:
   - Sarah J. Haigh
   - Michel W. Barsoum
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

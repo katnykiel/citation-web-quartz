@@ -4,6 +4,8 @@ date: 2024-06-09
 draft: false
 doi: https://doi.org/10.1002/eng2.12911
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Md. Shahinoor Alam
   - Mohammad Asaduzzaman Chowdhury
@@ -12,8 +14,6 @@ authors:
   - Md. Moynul Islam
   - Tasmina Khandaker
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

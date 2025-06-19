@@ -4,13 +4,13 @@ date: 2022-11-22
 draft: false
 doi: https://doi.org/10.1063/5.0124167
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Shukai Yao
   - Babak Anasori
   - Alejandro Strachan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

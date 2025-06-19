@@ -4,6 +4,8 @@ date: 2020-03-12
 draft: false
 doi: https://doi.org/10.1021/acsnano.0c01312
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Meikang Han
   - Christopher Eugene Shuck
@@ -14,8 +16,6 @@ authors:
   - Gary Friedman
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

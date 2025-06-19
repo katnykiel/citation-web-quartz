@@ -4,6 +4,8 @@ date: 2024-01-18
 draft: false
 doi: https://doi.org/10.1016/j.cej.2024.148776
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Abdul Hanan
   - Muhammad Nazim Lakhan
@@ -13,8 +15,6 @@ authors:
   - Altaf Hussain
   - Umair Aftab
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

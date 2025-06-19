@@ -4,6 +4,8 @@ date: 2021-06-15
 draft: false
 doi: https://doi.org/10.1021/acsnano.1c02775
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Srinivasa Kartik Nemani
   - Bowen Zhang
@@ -16,8 +18,6 @@ authors:
   - Subramanian K. R. S. Sankaranarayanan
   - Babak Anasori
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2015-07-24
 draft: false
 doi: https://doi.org/10.1021/acsnano.5b03591
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Babak Anasori
   - Yu Xie
@@ -15,8 +17,6 @@ authors:
   - Yury Gogotsi
   - Michel W. Barsoum
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

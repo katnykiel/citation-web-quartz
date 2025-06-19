@@ -4,6 +4,8 @@ date: 1993-09-01
 draft: false
 doi: https://doi.org/10.1038/365323a0
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - C. W. Chu
   - L. Gao
@@ -12,8 +14,6 @@ authors:
   - R. L. Meng
   - Y. Y. Xue
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

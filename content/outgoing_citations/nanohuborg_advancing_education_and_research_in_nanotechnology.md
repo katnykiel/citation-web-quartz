@@ -4,6 +4,8 @@ date: 2008-08-27
 draft: false
 doi: https://doi.org/10.1109/mcse.2008.120
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - G. Klimeck
   - M. McLennan
@@ -11,8 +13,6 @@ authors:
   - G.B. Adams
   - M.S. Lundstrom
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

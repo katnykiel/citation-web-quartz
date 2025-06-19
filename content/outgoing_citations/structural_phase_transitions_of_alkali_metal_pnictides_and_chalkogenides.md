@@ -4,14 +4,14 @@ date: 1991-12-15
 draft: false
 doi: https://doi.org/10.1080/08957959108245515
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - H. J. Beister
   - J. Klein
   - I. Schewe
   - K. Syassen
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

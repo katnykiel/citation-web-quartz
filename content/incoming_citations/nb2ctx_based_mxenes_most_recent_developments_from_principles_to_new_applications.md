@@ -4,13 +4,13 @@ date: 2023-04-18
 draft: false
 doi: https://doi.org/10.3390/en16083520
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Tholkappiyan Ramachandran
   - Abdel-Hamid Ismail Mourad
   - Mostafa S. A. ElSayed
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2021-02-18
 draft: false
 doi: https://doi.org/10.1088/1361-648x/abe793
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Brian C Wyatt
   - Srinivasa Kartik Nemani
@@ -12,8 +14,6 @@ authors:
   - Bowen Zhang
   - Babak Anasori
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

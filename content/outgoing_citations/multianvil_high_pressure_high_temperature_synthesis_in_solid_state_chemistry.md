@@ -4,11 +4,11 @@ date: 2004-06-01
 draft: false
 doi: https://doi.org/10.1524/zkri.219.6.330.34633
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Hubert Huppertz
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

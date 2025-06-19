@@ -4,6 +4,8 @@ date: 2024-04-08
 draft: false
 doi: https://doi.org/10.1016/j.jallcom.2024.174434
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Chenxue Yao
   - Zhengyan Xue
@@ -17,8 +19,6 @@ authors:
   - Kunxiao Han
   - Shifeng Hou
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

@@ -4,12 +4,12 @@ date: 2016-10-17
 draft: false
 doi: https://doi.org/10.1103/physrevb.94.165134
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Giacomo Torlai
   - Roger G. Melko
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

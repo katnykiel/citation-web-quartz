@@ -4,13 +4,13 @@ date: 2023-12-07
 draft: false
 doi: https://doi.org/10.1016/j.mattod.2023.11.010
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Martin Dahlqvist
   - Michel W. Barsoum
   - Johanna Rosen
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

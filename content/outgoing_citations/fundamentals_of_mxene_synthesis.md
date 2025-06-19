@@ -4,6 +4,8 @@ date: 2022-08-01
 draft: false
 doi: https://doi.org/10.1038/s44160-022-00104-6
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Kang Rui Garrick Lim
   - Mikhail Shekhirev
@@ -12,8 +14,6 @@ authors:
   - Yury Gogotsi
   - Zhi Wei Seh
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

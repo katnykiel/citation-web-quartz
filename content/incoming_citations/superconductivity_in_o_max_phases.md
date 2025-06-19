@@ -4,6 +4,8 @@ date: 2025-01-01
 draft: false
 doi: https://doi.org/10.1039/d4nr04231j
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Mohammad Keivanloo
   - Mohammad Sandoghchi
@@ -14,8 +16,6 @@ authors:
   - Ryo Maezono
   - Mohammad Khazaei
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

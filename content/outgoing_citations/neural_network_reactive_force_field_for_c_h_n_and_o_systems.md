@@ -4,6 +4,8 @@ date: 2021-01-22
 draft: false
 doi: https://doi.org/10.1038/s41524-020-00484-3
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Pilsun Yoo
   - Michael Sakano
@@ -12,8 +14,6 @@ authors:
   - Peilin Liao
   - Alejandro Strachan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

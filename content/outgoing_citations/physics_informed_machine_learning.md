@@ -4,6 +4,8 @@ date: 2021-05-24
 draft: false
 doi: https://doi.org/10.1038/s42254-021-00314-5
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - George Em Karniadakis
   - Ioannis G. Kevrekidis
@@ -12,8 +14,6 @@ authors:
   - Sifan Wang
   - Liu Yang
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

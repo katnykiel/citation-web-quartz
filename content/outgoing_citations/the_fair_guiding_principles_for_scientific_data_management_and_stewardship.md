@@ -4,6 +4,8 @@ date: 2016-03-15
 draft: false
 doi: https://doi.org/10.1038/sdata.2016.18
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Mark D. Wilkinson
   - Michel Dumontier
@@ -59,8 +61,6 @@ authors:
   - Jun Zhao
   - Barend Mons
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

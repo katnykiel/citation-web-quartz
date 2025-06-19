@@ -4,12 +4,12 @@ date: 1981-12-10
 draft: false
 doi: https://doi.org/10.1029/jb086ib12p11773
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Yosiko Sato
   - Raymond Jeanloz
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

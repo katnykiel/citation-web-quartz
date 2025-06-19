@@ -4,6 +4,8 @@ date: 2024-11-14
 draft: false
 doi: https://doi.org/10.1016/j.commatsci.2024.113458
 enableToc: false
+tags:
+  - my-work
 authors:
   - Ching-Chien Chen
   - Robert J. Appleton
@@ -12,8 +14,6 @@ authors:
   - Shukai Yao
   - Alejandro Strachan
 ---
-
-[[tags/my-work]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2017-08-05
 draft: false
 doi: https://doi.org/10.1016/j.commatsci.2017.07.030
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Kiran Mathew
   - Joseph H. Montoya
@@ -23,8 +25,6 @@ authors:
   - Kristin Persson
   - Anubhav Jain
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

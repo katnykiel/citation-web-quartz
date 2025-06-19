@@ -4,6 +4,8 @@ date: 2017-03-03
 draft: false
 doi: https://doi.org/10.1021/acs.inorgchem.6b03057
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Bensu Tunca
   - Thomas Lapauw
@@ -15,8 +17,6 @@ authors:
   - Konstantina Lambrinou
   - Jozef Vleugels
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

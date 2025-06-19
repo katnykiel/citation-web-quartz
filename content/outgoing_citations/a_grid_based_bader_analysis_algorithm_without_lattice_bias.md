@@ -4,13 +4,13 @@ date: 2009-01-30
 draft: false
 doi: https://doi.org/10.1088/0953-8984/21/8/084204
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - W Tang
   - E Sanville
   - G Henkelman
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

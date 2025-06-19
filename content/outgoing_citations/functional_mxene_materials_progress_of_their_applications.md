@@ -4,14 +4,14 @@ date: 2018-07-26
 draft: false
 doi: https://doi.org/10.1002/asia.201800543
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Xiuqin Li
   - Chengyin Wang
   - Yu Cao
   - Guoxiu Wang
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

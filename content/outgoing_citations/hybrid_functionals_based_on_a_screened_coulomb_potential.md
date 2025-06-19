@@ -4,13 +4,13 @@ date: 2003-04-25
 draft: false
 doi: https://doi.org/10.1063/1.1564060
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Jochen Heyd
   - Gustavo E. Scuseria
   - Matthias Ernzerhof
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

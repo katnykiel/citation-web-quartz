@@ -4,6 +4,8 @@ date: 2024-11-14
 draft: false
 doi: https://doi.org/10.1016/j.apsusc.2024.161791
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Yongteng Qian
   - Yue Sun
@@ -15,8 +17,6 @@ authors:
   - Hu Shi
   - Dae Joon Kang
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

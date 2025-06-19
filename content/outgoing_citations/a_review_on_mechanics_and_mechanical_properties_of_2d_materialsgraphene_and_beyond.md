@@ -4,6 +4,8 @@ date: 2017-01-25
 draft: false
 doi: https://doi.org/10.1016/j.eml.2017.01.008
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Deji Akinwande
   - Christopher J. Brennan
@@ -26,8 +28,6 @@ authors:
   - Yao Zhou
   - Yong Zhu
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,12 +4,12 @@ date: 2017-06-12
 draft: false
 doi: https://doi.org/10.1038/nenergy.2017.89
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Ekaterina Pomerantseva
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

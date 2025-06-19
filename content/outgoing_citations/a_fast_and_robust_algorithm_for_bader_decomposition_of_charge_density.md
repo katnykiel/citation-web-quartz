@@ -4,13 +4,13 @@ date: 2005-07-20
 draft: false
 doi: https://doi.org/10.1016/j.commatsci.2005.04.010
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Graeme Henkelman
   - Andri Arnaldsson
   - Hannes Jónsson
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,12 +4,12 @@ date: 2023-11-25
 draft: false
 doi: https://doi.org/10.1038/s41597-023-02755-2
 enableToc: false
+tags:
+  - my-work
 authors:
   - Kat Nykiel
   - Alejandro Strachan
 ---
-
-[[tags/my-work]]
 
 
 ## Authors

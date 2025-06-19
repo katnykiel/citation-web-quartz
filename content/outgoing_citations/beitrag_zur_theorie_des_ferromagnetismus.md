@@ -4,11 +4,11 @@ date: 1925-02-01
 draft: false
 doi: https://doi.org/10.1007/bf02980577
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Ernst Ising
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

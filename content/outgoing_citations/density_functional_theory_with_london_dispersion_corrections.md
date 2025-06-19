@@ -4,11 +4,11 @@ date: 2011-03-01
 draft: false
 doi: https://doi.org/10.1002/wcms.30
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Stefan Grimme
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

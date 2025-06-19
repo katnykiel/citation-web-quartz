@@ -4,12 +4,12 @@ date: 1980-07-01
 draft: false
 doi: https://doi.org/10.1103/physrevb.22.288
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - I. Morgenstern
   - K. Binder
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,14 +4,14 @@ date: 2006-12-13
 draft: false
 doi: https://doi.org/10.1063/1.2404663
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Aliaksandr V. Krukau
   - Oleg A. Vydrov
   - Artur F. Izmaylov
   - Gustavo E. Scuseria
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

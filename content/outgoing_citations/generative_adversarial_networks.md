@@ -4,6 +4,8 @@ date: 2020-10-22
 draft: false
 doi: https://doi.org/10.1145/3422622
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Ian Goodfellow
   - Jean Pouget-Abadie
@@ -14,8 +16,6 @@ authors:
   - Aaron Courville
   - Yoshua Bengio
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

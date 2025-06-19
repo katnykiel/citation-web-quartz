@@ -4,14 +4,14 @@ date: 2025-03-31
 draft: false
 doi: https://doi.org/10.1557/s43581-025-00130-9
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Anupma Thakur
   - Yuan Zhang
   - Yury Gogotsi
   - Babak Anasori
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

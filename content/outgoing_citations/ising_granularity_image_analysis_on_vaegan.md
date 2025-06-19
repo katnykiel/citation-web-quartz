@@ -4,6 +4,8 @@ date: 2022-09-03
 draft: false
 doi: https://doi.org/10.1007/s00138-022-01338-2
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Guoming Chen
   - Shun Long
@@ -12,8 +14,6 @@ authors:
   - Qiang Chen
   - Yilin Wu
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

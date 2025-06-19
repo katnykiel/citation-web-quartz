@@ -4,12 +4,12 @@ date: 2019-12-04
 draft: false
 doi: https://doi.org/10.1039/c9nr08675g
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Martin Dahlqvist
   - Johanna Rosen
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

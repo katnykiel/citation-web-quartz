@@ -4,6 +4,8 @@ date: 2025-01-01
 draft: false
 doi: https://doi.org/10.1039/d4sc08725a
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Junmei Du
   - Yifan Yan
@@ -13,8 +15,6 @@ authors:
   - Yuanzheng Chen
   - Hongyan Wang
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

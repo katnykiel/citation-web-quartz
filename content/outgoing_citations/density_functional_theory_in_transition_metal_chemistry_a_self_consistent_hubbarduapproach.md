@@ -4,14 +4,14 @@ date: 2006-09-05
 draft: false
 doi: https://doi.org/10.1103/physrevlett.97.103001
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Heather J. Kulik
   - Matteo Cococcioni
   - Damian A. Scherlis
   - Nicola Marzari
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

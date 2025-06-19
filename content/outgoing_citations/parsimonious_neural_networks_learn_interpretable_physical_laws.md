@@ -4,12 +4,12 @@ date: 2021-06-17
 draft: false
 doi: https://doi.org/10.1038/s41598-021-92278-w
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Saaketh Desai
   - Alejandro Strachan
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

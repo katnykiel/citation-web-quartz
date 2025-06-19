@@ -4,13 +4,13 @@ date: 1969-09-26
 draft: false
 doi: https://doi.org/10.1126/science.165.3900.1352
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Taro Takahashi
   - Ho Kwang Mao
   - W. A. Bassett
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

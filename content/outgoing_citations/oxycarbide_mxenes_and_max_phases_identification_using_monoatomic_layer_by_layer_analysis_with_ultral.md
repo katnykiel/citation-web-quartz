@@ -4,6 +4,8 @@ date: 2022-09-22
 draft: false
 doi: https://doi.org/10.1038/s41565-022-01214-0
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Paweł P. Michałowski
   - Mark Anayee
@@ -19,8 +21,6 @@ authors:
   - Edyta Wierzbicka
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

@@ -4,6 +4,8 @@ date: 2020-01-01
 draft: false
 doi: https://doi.org/10.1039/d0sc02458a
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Zhiheng Li
   - Geemi P. Wellawatte
@@ -12,8 +14,6 @@ authors:
   - Chenliang Xu
   - Andrew D. White
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

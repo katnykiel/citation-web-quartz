@@ -4,13 +4,13 @@ date: 2018-01-26
 draft: false
 doi: https://doi.org/10.1103/physrevlett.120.042003
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Michela Paganini
   - Luke de Oliveira
   - Benjamin Nachman
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

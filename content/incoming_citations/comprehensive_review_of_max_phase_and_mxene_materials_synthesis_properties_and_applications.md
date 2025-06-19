@@ -4,6 +4,8 @@ date: 2025-01-07
 draft: false
 doi: https://doi.org/10.32388/a3qp41
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - C. B. Subba
   - Dibya Prakash Rai
@@ -11,8 +13,6 @@ authors:
   - Avazbek T. Dekhkonov
   - Z. Pachuau
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

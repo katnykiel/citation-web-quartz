@@ -4,12 +4,12 @@ date: 1977-07-01
 draft: false
 doi: https://doi.org/10.1103/revmodphys.49.523
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - G. E. Duvall
   - R. A. Graham
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

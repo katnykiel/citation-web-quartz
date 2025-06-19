@@ -4,14 +4,14 @@ date: 2020-09-01
 draft: false
 doi: https://doi.org/10.1007/s00285-020-01518-6
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Jeyashree Krishnan
   - Reza Torabi
   - Andreas Schuppert
   - Edoardo Di Napoli
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

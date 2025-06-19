@@ -4,6 +4,8 @@ date: 2025-01-01
 draft: false
 doi: https://doi.org/10.1016/j.elecom.2025.107879
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Christian Iffelsberger
   - Katarina A. Novčić
@@ -11,8 +13,6 @@ authors:
   - Frank-Michael Matysik
   - Martin Pumera
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

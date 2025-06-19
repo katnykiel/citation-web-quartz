@@ -4,12 +4,12 @@ date: 2019-04-08
 draft: false
 doi: https://doi.org/10.1103/physrevmaterials.3.044001
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - A. S. Botana
   - M. R. Norman
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

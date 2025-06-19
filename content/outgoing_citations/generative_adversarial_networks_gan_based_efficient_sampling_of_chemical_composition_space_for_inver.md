@@ -4,6 +4,8 @@ date: 2020-06-26
 draft: false
 doi: https://doi.org/10.1038/s41524-020-00352-0
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Yabo Dan
   - Yong Zhao
@@ -12,8 +14,6 @@ authors:
   - Ming Hu
   - Jianjun Hu
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

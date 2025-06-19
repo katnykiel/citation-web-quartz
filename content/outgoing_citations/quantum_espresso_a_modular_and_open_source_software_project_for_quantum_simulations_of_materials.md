@@ -4,6 +4,8 @@ date: 2009-09-01
 draft: false
 doi: https://doi.org/10.1088/0953-8984/21/39/395502
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Paolo Giannozzi
   - Stefano Baroni
@@ -39,8 +41,6 @@ authors:
   - Paolo Umari
   - Renata M Wentzcovitch
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

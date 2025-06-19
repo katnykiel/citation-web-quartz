@@ -4,6 +4,8 @@ date: 2024-10-01
 draft: false
 doi: https://doi.org/10.1016/j.jeurceramsoc.2024.116964
 enableToc: false
+tags:
+  - incoming-citations
 authors:
   - Bo Wen
   - Yijiang Liu
@@ -15,8 +17,6 @@ authors:
   - Qingguo Feng
   - Chunfeng Hu
 ---
-
-[[tags/incoming-citations]]
 
 
 ## Authors

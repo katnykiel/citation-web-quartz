@@ -4,6 +4,8 @@ date: 2021-07-15
 draft: false
 doi: https://doi.org/10.1038/s41586-021-03819-2
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - John Jumper
   - Richard Evans
@@ -40,8 +42,6 @@ authors:
   - Pushmeet Kohli
   - Demis Hassabis
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

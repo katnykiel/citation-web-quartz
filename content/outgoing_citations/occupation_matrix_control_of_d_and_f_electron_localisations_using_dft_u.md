@@ -4,12 +4,12 @@ date: 2014-01-01
 draft: false
 doi: https://doi.org/10.1039/c4cp01083c
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Jeremy P. Allen
   - Graeme W. Watson
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

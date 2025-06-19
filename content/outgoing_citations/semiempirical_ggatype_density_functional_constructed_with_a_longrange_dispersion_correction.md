@@ -4,11 +4,11 @@ date: 2006-09-05
 draft: false
 doi: https://doi.org/10.1002/jcc.20495
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Stefan Grimme
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

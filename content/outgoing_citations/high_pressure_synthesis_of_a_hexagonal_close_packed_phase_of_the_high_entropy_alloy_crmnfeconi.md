@@ -4,6 +4,8 @@ date: 2017-05-25
 draft: false
 doi: https://doi.org/10.1038/ncomms15634
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Cameron L. Tracy
   - Sulgiye Park
@@ -14,8 +16,6 @@ authors:
   - Rodney C. Ewing
   - Wendy L. Mao
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

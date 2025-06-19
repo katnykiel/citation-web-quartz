@@ -4,12 +4,12 @@ date: 2021-01-01
 draft: false
 doi: https://doi.org/10.1063/9.0000078
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - M. A. Timirgazin
   - A. K. Arzhnikov
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

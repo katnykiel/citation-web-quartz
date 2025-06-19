@@ -4,6 +4,8 @@ date: 2015-08-17
 draft: false
 doi: https://doi.org/10.1038/nature14964
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - A. P. Drozdov
   - M. I. Eremets
@@ -11,8 +13,6 @@ authors:
   - V. Ksenofontov
   - S. I. Shylin
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

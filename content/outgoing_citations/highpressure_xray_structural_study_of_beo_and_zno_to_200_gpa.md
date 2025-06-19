@@ -4,6 +4,8 @@ date: 2004-10-29
 draft: false
 doi: https://doi.org/10.1002/pssb.200405247
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Y. Mori
   - N. Niiya
@@ -12,8 +14,6 @@ authors:
   - K. Takarabe
   - A. L. Ruoff
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

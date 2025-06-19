@@ -4,12 +4,12 @@ date: 2022-11-28
 draft: false
 doi: https://doi.org/10.1038/s43588-022-00349-3
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Chi Chen
   - Shyue Ping Ong
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

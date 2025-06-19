@@ -4,6 +4,8 @@ date: 2019-03-04
 draft: false
 doi: https://doi.org/10.1021/acsnano.8b08014
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Nathan C. Frey
   - Jin Wang
@@ -12,8 +14,6 @@ authors:
   - Yury Gogotsi
   - Vivek B. Shenoy
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors

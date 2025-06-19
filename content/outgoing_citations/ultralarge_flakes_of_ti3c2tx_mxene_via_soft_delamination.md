@@ -4,6 +4,8 @@ date: 2022-07-25
 draft: false
 doi: https://doi.org/10.1021/acsnano.2c04506
 enableToc: false
+tags:
+  - outgoing-citations
 authors:
   - Mikhail Shekhirev
   - Jeffrey Busa
@@ -13,8 +15,6 @@ authors:
   - Alexander Sinitskii
   - Yury Gogotsi
 ---
-
-[[tags/outgoing-citations]]
 
 
 ## Authors
