@@ -1,0 +1,152 @@
+---
+title: "Reproducibility in density functional theory calculations of solids"
+date: 2016-03-24
+draft: false
+doi: https://doi.org/10.1126/science.aad3000
+enableToc: false
+authors:
+  - Kurt Lejaeghere
+  - Gustav Bihlmayer
+  - Torbjörn Björkman
+  - Peter Blaha
+  - Stefan Blügel
+  - Volker Blum
+  - Damien Caliste
+  - Ivano E. Castelli
+  - Stewart J. Clark
+  - Andrea Dal Corso
+  - Stefano de Gironcoli
+  - Thierry Deutsch
+  - John Kay Dewhurst
+  - Igor Di Marco
+  - Claudia Draxl
+  - Marcin Dułak
+  - Olle Eriksson
+  - José A. Flores-Livas
+  - Kevin F. Garrity
+  - Luigi Genovese
+  - Paolo Giannozzi
+  - Matteo Giantomassi
+  - Stefan Goedecker
+  - Xavier Gonze
+  - Oscar Grånäs
+  - E. K. U. Gross
+  - Andris Gulans
+  - François Gygi
+  - D. R. Hamann
+  - Phil J. Hasnip
+  - N. A. W. Holzwarth
+  - Diana Iuşan
+  - Dominik B. Jochym
+  - François Jollet
+  - Daniel Jones
+  - Georg Kresse
+  - Klaus Koepernik
+  - Emine Küçükbenli
+  - Yaroslav O. Kvashnin
+  - Inka L. M. Locht
+  - Sven Lubeck
+  - Martijn Marsman
+  - Nicola Marzari
+  - Ulrike Nitzsche
+  - Lars Nordström
+  - Taisuke Ozaki
+  - Lorenzo Paulatto
+  - Chris J. Pickard
+  - Ward Poelmans
+  - Matt I. J. Probert
+  - Keith Refson
+  - Manuel Richter
+  - Gian-Marco Rignanese
+  - Santanu Saha
+  - Matthias Scheffler
+  - Martin Schlipf
+  - Karlheinz Schwarz
+  - Sangeeta Sharma
+  - Francesca Tavazza
+  - Patrik Thunström
+  - Alexandre Tkatchenko
+  - Marc Torrent
+  - David Vanderbilt
+  - Michiel J. van Setten
+  - Veronique Van Speybroeck
+  - John M. Wills
+  - Jonathan R. Yates
+  - Guo-Xu Zhang
+  - Stefaan Cottenier
+---
+
+[[tags/outgoing-citations]]
+
+
+## Authors
+
+- [Kurt Lejaeghere](../authors/author_A5044049113.md)
+- [Gustav Bihlmayer](../authors/author_A5033221714.md)
+- [Torbjörn Björkman](../authors/author_A5001399484.md)
+- [Peter Blaha](../authors/author_A5082762917.md)
+- [Stefan Blügel](../authors/author_A5042752999.md)
+- [Volker Blum](../authors/author_A5050792689.md)
+- [Damien Caliste](../authors/author_A5006196401.md)
+- [Ivano E. Castelli](../authors/author_A5047189415.md)
+- [Stewart J. Clark](../authors/author_A5082117061.md)
+- [Andrea Dal Corso](../authors/author_A5024485922.md)
+- [Stefano de Gironcoli](../authors/author_A5030313940.md)
+- [Thierry Deutsch](../authors/author_A5000573627.md)
+- [John Kay Dewhurst](../authors/author_A5079412437.md)
+- [Igor Di Marco](../authors/author_A5061671846.md)
+- [Claudia Draxl](../authors/author_A5053264793.md)
+- [Marcin Dułak](../authors/author_A5047449899.md)
+- [Olle Eriksson](../authors/author_A5064187188.md)
+- [José A. Flores-Livas](../authors/author_A5002013025.md)
+- [Kevin F. Garrity](../authors/author_A5014188575.md)
+- [Luigi Genovese](../authors/author_A5044207730.md)
+- [Paolo Giannozzi](../authors/author_A5022822719.md)
+- [Matteo Giantomassi](../authors/author_A5072458070.md)
+- [Stefan Goedecker](../authors/author_A5019344077.md)
+- [Xavier Gonze](../authors/author_A5073176584.md)
+- [Oscar Grånäs](../authors/author_A5108083574.md)
+- [E. K. U. Gross](../authors/author_A5007292432.md)
+- [Andris Gulans](../authors/author_A5080487651.md)
+- [François Gygi](../authors/author_A5059555128.md)
+- [D. R. Hamann](../authors/author_A5035369167.md)
+- [Phil J. Hasnip](../authors/author_A5054271881.md)
+- [N. A. W. Holzwarth](../authors/author_A5063586650.md)
+- [Diana Iuşan](../authors/author_A5051790879.md)
+- [Dominik B. Jochym](../authors/author_A5034128024.md)
+- [François Jollet](../authors/author_A5016807158.md)
+- [Daniel Jones](../authors/author_A5062208432.md)
+- [Georg Kresse](../authors/author_A5019751186.md)
+- [Klaus Koepernik](../authors/author_A5004225741.md)
+- [Emine Küçükbenli](../authors/author_A5009574969.md)
+- [Yaroslav O. Kvashnin](../authors/author_A5087582499.md)
+- [Inka L. M. Locht](../authors/author_A5056191216.md)
+- [Sven Lubeck](../authors/author_A5062197048.md)
+- [Martijn Marsman](../authors/author_A5046125170.md)
+- [Nicola Marzari](../authors/author_A5005167296.md)
+- [Ulrike Nitzsche](../authors/author_A5074362153.md)
+- [Lars Nordström](../authors/author_A5080250221.md)
+- [Taisuke Ozaki](../authors/author_A5037711482.md)
+- [Lorenzo Paulatto](../authors/author_A5008894911.md)
+- [Chris J. Pickard](../authors/author_A5013004499.md)
+- [Ward Poelmans](../authors/author_A5031467676.md)
+- [Matt I. J. Probert](../authors/author_A5074728271.md)
+- [Keith Refson](../authors/author_A5007360817.md)
+- [Manuel Richter](../authors/author_A5025377536.md)
+- [Gian-Marco Rignanese](../authors/author_A5085863268.md)
+- [Santanu Saha](../authors/author_A5066739805.md)
+- [Matthias Scheffler](../authors/author_A5067145443.md)
+- [Martin Schlipf](../authors/author_A5044337291.md)
+- [Karlheinz Schwarz](../authors/author_A5038840462.md)
+- [Sangeeta Sharma](../authors/author_A5101583056.md)
+- [Francesca Tavazza](../authors/author_A5088846466.md)
+- [Patrik Thunström](../authors/author_A5040558573.md)
+- [Alexandre Tkatchenko](../authors/author_A5026929463.md)
+- [Marc Torrent](../authors/author_A5041302375.md)
+- [David Vanderbilt](../authors/author_A5000393220.md)
+- [Michiel J. van Setten](../authors/author_A5063969731.md)
+- [Veronique Van Speybroeck](../authors/author_A5071451863.md)
+- [John M. Wills](../authors/author_A5115603841.md)
+- [Jonathan R. Yates](../authors/author_A5011966222.md)
+- [Guo-Xu Zhang](../authors/author_A5010561633.md)
+- [Stefaan Cottenier](../authors/author_A5086257489.md)

@@ -1,0 +1,16 @@
+---
+title: "Toward an Ising model of cancer and beyond"
+date: 2011-02-01
+draft: false
+doi: https://doi.org/10.1088/1478-3975/8/1/015017
+enableToc: false
+authors:
+  - Salvatore Torquato
+---
+
+[[tags/outgoing-citations]]
+
+
+## Authors
+
+- [Salvatore Torquato](../authors/author_A5062172005.md)

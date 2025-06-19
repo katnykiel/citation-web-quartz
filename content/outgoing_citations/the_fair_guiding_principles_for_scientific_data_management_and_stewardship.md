@@ -1,0 +1,120 @@
+---
+title: "The FAIR Guiding Principles for scientific data management and stewardship"
+date: 2016-03-15
+draft: false
+doi: https://doi.org/10.1038/sdata.2016.18
+enableToc: false
+authors:
+  - Mark D. Wilkinson
+  - Michel Dumontier
+  - IJsbrand Jan Aalbersberg
+  - Gabrielle Appleton
+  - Myles Axton
+  - Arie Baak
+  - Niklas Blomberg
+  - Jan-Willem Boiten
+  - Luiz Bonino da Silva Santos
+  - Philip E. Bourne
+  - Jildau Bouwman
+  - Anthony J. Brookes
+  - Tim Clark
+  - Mercè Crosas
+  - Ingrid Dillo
+  - Olivier Dumon
+  - Scott Edmunds
+  - Chris T. Evelo
+  - Richard Finkers
+  - Alejandra Gonzalez-Beltran
+  - Alasdair J.G. Gray
+  - Paul Groth
+  - Carole Goble
+  - Jeffrey S. Grethe
+  - Jaap Heringa
+  - Peter A.C ’t Hoen
+  - Rob Hooft
+  - Tobias Kuhn
+  - Ruben Kok
+  - Joost Kok
+  - Scott J. Lusher
+  - Maryann E. Martone
+  - Albert Mons
+  - Abel L. Packer
+  - Bengt Persson
+  - Philippe Rocca-Serra
+  - Marco Roos
+  - Rene van Schaik
+  - Susanna-Assunta Sansone
+  - Erik Schultes
+  - Thierry Sengstag
+  - Ted Slater
+  - George Strawn
+  - Morris A. Swertz
+  - Mark Thompson
+  - Johan van der Lei
+  - Erik van Mulligen
+  - Jan Velterop
+  - Andra Waagmeester
+  - Peter Wittenburg
+  - Katherine Wolstencroft
+  - Jun Zhao
+  - Barend Mons
+---
+
+[[tags/outgoing-citations]]
+
+
+## Authors
+
+- [Mark D. Wilkinson](../authors/author_A5067974158.md)
+- [Michel Dumontier](../authors/author_A5044836472.md)
+- [IJsbrand Jan Aalbersberg](../authors/author_A5028351438.md)
+- [Gabrielle Appleton](../authors/author_A5030388625.md)
+- [Myles Axton](../authors/author_A5027743525.md)
+- [Arie Baak](../authors/author_A5103172054.md)
+- [Niklas Blomberg](../authors/author_A5010916394.md)
+- [Jan-Willem Boiten](../authors/author_A5069885178.md)
+- [Luiz Bonino da Silva Santos](../authors/author_A5067310105.md)
+- [Philip E. Bourne](../authors/author_A5075833022.md)
+- [Jildau Bouwman](../authors/author_A5061463439.md)
+- [Anthony J. Brookes](../authors/author_A5007022165.md)
+- [Tim Clark](../authors/author_A5007020202.md)
+- [Mercè Crosas](../authors/author_A5056421325.md)
+- [Ingrid Dillo](../authors/author_A5086032272.md)
+- [Olivier Dumon](../authors/author_A5050655123.md)
+- [Scott Edmunds](../authors/author_A5091565842.md)
+- [Chris T. Evelo](../authors/author_A5075750072.md)
+- [Richard Finkers](../authors/author_A5091360374.md)
+- [Alejandra Gonzalez-Beltran](../authors/author_A5086246448.md)
+- [Alasdair J.G. Gray](../authors/author_A5016133956.md)
+- [Paul Groth](../authors/author_A5034924491.md)
+- [Carole Goble](../authors/author_A5027899893.md)
+- [Jeffrey S. Grethe](../authors/author_A5076014872.md)
+- [Jaap Heringa](../authors/author_A5103164604.md)
+- [Peter A.C ’t Hoen](../authors/author_A5021033668.md)
+- [Rob Hooft](../authors/author_A5033074461.md)
+- [Tobias Kuhn](../authors/author_A5016394820.md)
+- [Ruben Kok](../authors/author_A5069864756.md)
+- [Joost Kok](../authors/author_A5012010960.md)
+- [Scott J. Lusher](../authors/author_A5076459682.md)
+- [Maryann E. Martone](../authors/author_A5061037631.md)
+- [Albert Mons](../authors/author_A5082106745.md)
+- [Abel L. Packer](../authors/author_A5074742346.md)
+- [Bengt Persson](../authors/author_A5052620448.md)
+- [Philippe Rocca-Serra](../authors/author_A5018395535.md)
+- [Marco Roos](../authors/author_A5021179422.md)
+- [Rene van Schaik](../authors/author_A5010012493.md)
+- [Susanna-Assunta Sansone](../authors/author_A5008806860.md)
+- [Erik Schultes](../authors/author_A5043231938.md)
+- [Thierry Sengstag](../authors/author_A5027225010.md)
+- [Ted Slater](../authors/author_A5003303412.md)
+- [George Strawn](../authors/author_A5082263504.md)
+- [Morris A. Swertz](../authors/author_A5052368642.md)
+- [Mark Thompson](../authors/author_A5039828193.md)
+- [Johan van der Lei](../authors/author_A5023215576.md)
+- [Erik van Mulligen](../authors/author_A5053857782.md)
+- [Jan Velterop](../authors/author_A5001384753.md)
+- [Andra Waagmeester](../authors/author_A5048705669.md)
+- [Peter Wittenburg](../authors/author_A5056816256.md)
+- [Katherine Wolstencroft](../authors/author_A5087859284.md)
+- [Jun Zhao](../authors/author_A5100744623.md)
+- [Barend Mons](../authors/author_A5070745825.md)
