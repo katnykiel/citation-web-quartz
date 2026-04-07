@@ -1,6 +1,6 @@
 ---
 title: "Synthesis of two new o-MAX phases Mo2VAlC2 and Mo2V2AlC3 and their derivatives o-MXene Mo2VC2Tx and Mo2V2C3Tx"
-date: 2024-10-01
+date: 2024-10-03
 draft: false
 doi: https://doi.org/10.1016/j.jeurceramsoc.2024.116964
 enableToc: false

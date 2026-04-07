@@ -7,12 +7,12 @@ enableToc: false
 tags:
   - outgoing-citations
 authors:
-  - Kat Nykiel
-  - Alejandro Strachan
+  - Nykiel, Kat
+  - Strachan, Alejandro
 ---
 
 
 ## Authors
 
-- [Kat Nykiel](../authors/author_A5040181876.md)
-- [Alejandro Strachan](../authors/author_A5036381334.md)
+- [Nykiel, Kat](../authors/author_A5040181876.md)
+- [Strachan, Alejandro](../authors/author_A5036381334.md)

@@ -1,6 +1,6 @@
 ---
-title: "Unveiling Mechanical, Electronic, and Optical Properties of Newly Synthesized Mo2VAlC2 and Mo2V2AlC3 o-MAX Phases via First-Principles Calculations"
-date: 2025-04-01
+title: "Unveiling mechanical, electronic, and optical properties of newly synthesized Mo2VAlC2 and Mo2V2AlC3 o-MAX phases via first-principles calculations"
+date: 2025-04-04
 draft: false
 doi: https://doi.org/10.1016/j.jmrt.2025.04.004
 enableToc: false

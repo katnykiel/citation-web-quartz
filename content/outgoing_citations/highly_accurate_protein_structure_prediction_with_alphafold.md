@@ -47,7 +47,6 @@ authors:
 ## Authors
 
 - [John Jumper](../authors/author_A5059179935.md)
-- [Richard Evans](../authors/author_A5017082774.md)
 - [Alexander Pritzel](../authors/author_A5062883663.md)
 - [Tim Green](../authors/author_A5101569668.md)
 - [Michael Figurnov](../authors/author_A5004531184.md)

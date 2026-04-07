@@ -1,6 +1,6 @@
 ---
 title: "How accurate is density functional theory at high pressures?"
-date: 2024-11-14
+date: 2024-11-13
 draft: false
 doi: https://doi.org/10.1016/j.commatsci.2024.113458
 enableToc: false
@@ -27,6 +27,7 @@ authors:
 
 ## Citations
 
+- [Assessing the Perdew-Burke-Ernzerhof exchange-correlation density functional revised for metallic bulk and surface systems](../outgoing_citations/assessing_the_perdew_burke_ernzerhof_exchange_correlation_density_functional_revised_for_metallic_bu.md)
 - [Shock wave study of the α ⇄ ε phase transition in iron](../outgoing_citations/shock_wave_study_of_the_α_ε_phase_transition_in_iron.md)
 - [Conventional superconductivity at 203 kelvin at high pressures in the sulfur hydride system](../outgoing_citations/conventional_superconductivity_at_203_kelvin_at_high_pressures_in_the_sulfur_hydride_system.md)
 - [Synthesis of superhard cubic BC2N](../outgoing_citations/synthesis_of_superhard_cubic_bc2n.md)
@@ -53,7 +54,7 @@ authors:
 - [Climbing the Density Functional Ladder: Nonempirical Meta–Generalized Gradient Approximation Designed for Molecules and Solids](../outgoing_citations/climbing_the_density_functional_ladder_nonempirical_metageneralized_gradient_approximation_designed_.md)
 - [Density Functional Theory in Transition-Metal Chemistry: A Self-Consistent HubbardUApproach](../outgoing_citations/density_functional_theory_in_transition_metal_chemistry_a_self_consistent_hubbarduapproach.md)
 - [O(N)LDA+Uelectronic structure calculation method based on the nonorthogonal pseudoatomic orbital basis](../outgoing_citations/onldauelectronic_structure_calculation_method_based_on_the_nonorthogonal_pseudoatomic_orbital_basis.md)
-- [Pressure‐Induced Phase Transformation of HfO2](../outgoing_citations/pressureinduced_phase_transformation_of_hfo2.md)
+- [Pressure‐Induced Phase Transformation of HfO 2](../outgoing_citations/pressureinduced_phase_transformation_of_hfo_2.md)
 - [Linear response approach to the calculation of the effective interaction parameters in theLDA+Umethod](../outgoing_citations/linear_response_approach_to_the_calculation_of_the_effective_interaction_parameters_in_theldaumethod.md)
 - [Semiempirical GGA‐type density functional constructed with a long‐range dispersion correction](../outgoing_citations/semiempirical_ggatype_density_functional_constructed_with_a_longrange_dispersion_correction.md)
 - [Pressure-induced structural phase transitions in zirconia under high pressure](../outgoing_citations/pressure_induced_structural_phase_transitions_in_zirconia_under_high_pressure.md)
@@ -85,7 +86,6 @@ authors:
 - [Performance of various density-functional approximations for cohesive properties of 64 bulk solids](../outgoing_citations/performance_of_various_density_functional_approximations_for_cohesive_properties_of_64_bulk_solids.md)
 - [Superconductivity at 250 K in lanthanum hydride under high pressures](../outgoing_citations/superconductivity_at_250_k_in_lanthanum_hydride_under_high_pressures.md)
 - [Multianvil high-pressure / high-temperature synthesis in solid state chemistry](../outgoing_citations/multianvil_high_pressure_high_temperature_synthesis_in_solid_state_chemistry.md)
-- [Assessing the Perdew-Burke-Ernzerhof exchange-correlation density functional revised for metallic bulk and surface systems](../outgoing_citations/assessing_the_perdew_burke_ernzerhof_exchange_correlation_density_functional_revised_for_metallic_bu.md)
 - [Sim2Ls: FAIR simulation workflows and data](../outgoing_citations/sim2ls_fair_simulation_workflows_and_data.md)
 - [2D rare-earth metal carbides (MXenes) Mo2NdC2T2 electronic structure and magnetic properties: A DFT + U study](../outgoing_citations/2d_rare_earth_metal_carbides_mxenes_mo2ndc2t2_electronic_structure_and_magnetic_properties_a_dft_u_s.md)
 - [Effects of dispersion corrections on the theoretical description of bulk metals](../outgoing_citations/effects_of_dispersion_corrections_on_the_theoretical_description_of_bulk_metals.md)

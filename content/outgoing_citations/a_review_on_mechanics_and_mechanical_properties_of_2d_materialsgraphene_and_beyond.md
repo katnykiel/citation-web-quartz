@@ -1,6 +1,6 @@
 ---
 title: "A review on mechanics and mechanical properties of 2D materials—Graphene and beyond"
-date: 2017-01-25
+date: 2017-01-24
 draft: false
 doi: https://doi.org/10.1016/j.eml.2017.01.008
 enableToc: false

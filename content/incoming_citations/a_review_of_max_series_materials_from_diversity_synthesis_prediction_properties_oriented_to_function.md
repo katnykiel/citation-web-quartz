@@ -1,6 +1,6 @@
 ---
 title: "A Review of MAX Series Materials: From Diversity, Synthesis, Prediction, Properties Oriented to Functions"
-date: 2025-03-03
+date: 2025-03-02
 draft: false
 doi: https://doi.org/10.1007/s40820-025-01673-9
 enableToc: false

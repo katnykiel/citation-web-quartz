@@ -15,12 +15,3 @@ authors:
   - Jianjun Hu
 ---
 
-
-## Authors
-
-- [Yabo Dan](../authors/author_A5023767861.md)
-- [Yong Zhao](../authors/author_A5100601589.md)
-- [Xiang Li](../authors/author_A5103349668.md)
-- [Shaobo Li](../authors/author_A5100354322.md)
-- [Ming Hu](../authors/author_A5087733640.md)
-- [Jianjun Hu](../authors/author_A5060537711.md)

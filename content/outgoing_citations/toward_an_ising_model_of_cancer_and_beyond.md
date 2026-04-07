@@ -10,7 +10,3 @@ authors:
   - Salvatore Torquato
 ---
 
-
-## Authors
-
-- [Salvatore Torquato](../authors/author_A5062172005.md)

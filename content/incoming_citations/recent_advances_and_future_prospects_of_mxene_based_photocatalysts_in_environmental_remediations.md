@@ -1,5 +1,5 @@
 ---
-title: "Recent advances and future prospects of MXene-based photocatalysts in environmental remediations."
+title: "Recent advances and future prospects of MXene-based photocatalysts in environmental remediations"
 date: 2024-11-14
 draft: false
 doi: https://doi.org/10.1016/j.jece.2024.114812

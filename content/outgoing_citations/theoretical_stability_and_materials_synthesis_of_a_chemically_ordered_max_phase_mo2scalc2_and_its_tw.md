@@ -1,6 +1,6 @@
 ---
 title: "Theoretical stability and materials synthesis of a chemically ordered MAX phase, Mo2ScAlC2, and its two-dimensional derivate Mo2ScC2 MXene"
-date: 2016-12-28
+date: 2016-12-27
 draft: false
 doi: https://doi.org/10.1016/j.actamat.2016.12.008
 enableToc: false

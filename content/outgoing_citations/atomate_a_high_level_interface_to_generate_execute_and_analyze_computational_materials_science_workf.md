@@ -1,6 +1,6 @@
 ---
 title: "Atomate: A high-level interface to generate, execute, and analyze computational materials science workflows"
-date: 2017-08-05
+date: 2017-08-04
 draft: false
 doi: https://doi.org/10.1016/j.commatsci.2017.07.030
 enableToc: false

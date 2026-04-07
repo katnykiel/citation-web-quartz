@@ -1,0 +1,126 @@
+---
+title: "OPTIMADE, an API for exchanging materials data"
+date: 2021-01-01
+draft: false
+doi: https://doi.org/10.17863/cam.76217
+enableToc: false
+tags:
+  - outgoing-citations
+authors:
+  - Andersen, Casper W
+  - Armiento, Rickard
+  - Blokhin, Evgeny
+  - Conduit, Gareth J
+  - Dwaraknath, Shyam
+  - Evans, Matthew L
+  - Fekete, Ádám
+  - Gopakumar, Abhijith
+  - Gražulis, Saulius
+  - Merkys, Andrius
+  - Mohamed, Fawzi
+  - Oses, Corey
+  - Pizzi, Giovanni
+  - Rignanese, Gian-Marco
+  - Scheidgen, Markus
+  - Talirz, Leopold
+  - Toher, Cormac
+  - Winston, Donald
+  - Aversa, Rossella
+  - Choudhary, Kamal
+  - Colinet, Pauline
+  - Curtarolo, Stefano
+  - Di Stefano, Davide
+  - Draxl, Claudia
+  - Er, Suleyman
+  - Esters, Marco
+  - Fornari, Marco
+  - Giantomassi, Matteo
+  - Govoni, Marco
+  - Hautier, Geoffroy
+  - Hegde, Vinay
+  - Horton, Matthew K
+  - Huck, Patrick
+  - Huhs, Georg
+  - Hummelshøj, Jens
+  - Kariryaa, Ankit
+  - Kozinsky, Boris
+  - Kumbhar, Snehal
+  - Liu, Mohan
+  - Marzari, Nicola
+  - Morris, Andrew J
+  - Mostofi, Arash A
+  - Persson, Kristin A
+  - Petretto, Guido
+  - Purcell, Thomas
+  - Ricci, Francesco
+  - Rose, Frisco
+  - Scheffler, Matthias
+  - Speckhard, Daniel
+  - Uhrin, Martin
+  - Vaitkus, Antanas
+  - Villars, Pierre
+  - Waroquiers, David
+  - Wolverton, Chris
+  - Wu, Michael
+  - Yang, Xiaoyu
+---
+
+
+## Authors
+
+- [Andersen, Casper W](../authors/author_A5014233367.md)
+- [Armiento, Rickard](../authors/author_A5075676437.md)
+- [Blokhin, Evgeny](../authors/author_A5062015456.md)
+- [Conduit, Gareth J](../authors/author_A5034017311.md)
+- [Dwaraknath, Shyam](../authors/author_A5001088684.md)
+- [Evans, Matthew L](../authors/author_A5074236095.md)
+- [Fekete, Ádám](../authors/author_A5019712384.md)
+- [Gopakumar, Abhijith](../authors/author_A5054193827.md)
+- [Gražulis, Saulius](../authors/author_A5055816979.md)
+- [Merkys, Andrius](../authors/author_A5084681787.md)
+- [Mohamed, Fawzi](../authors/author_A5109859069.md)
+- [Oses, Corey](../authors/author_A5073329819.md)
+- [Pizzi, Giovanni](../authors/author_A5012427316.md)
+- [Rignanese, Gian-Marco](../authors/author_A5085863268.md)
+- [Scheidgen, Markus](../authors/author_A5067114196.md)
+- [Talirz, Leopold](../authors/author_A5062102737.md)
+- [Toher, Cormac](../authors/author_A5058912530.md)
+- [Winston, Donald](../authors/author_A5036058196.md)
+- [Aversa, Rossella](../authors/author_A5006070207.md)
+- [Choudhary, Kamal](../authors/author_A5019215236.md)
+- [Colinet, Pauline](../authors/author_A5038588668.md)
+- [Curtarolo, Stefano](../authors/author_A5006314784.md)
+- [Di Stefano, Davide](../authors/author_A5069541990.md)
+- [Draxl, Claudia](../authors/author_A5053264793.md)
+- [Er, Suleyman](../authors/author_A5073500004.md)
+- [Esters, Marco](../authors/author_A5065686399.md)
+- [Fornari, Marco](../authors/author_A5001599293.md)
+- [Giantomassi, Matteo](../authors/author_A5072458070.md)
+- [Govoni, Marco](../authors/author_A5021610091.md)
+- [Hautier, Geoffroy](../authors/author_A5027208775.md)
+- [Hegde, Vinay](../authors/author_A5057538063.md)
+- [Horton, Matthew K](../authors/author_A5077202982.md)
+- [Huck, Patrick](../authors/author_A5014466243.md)
+- [Huhs, Georg](../authors/author_A5059363809.md)
+- [Hummelshøj, Jens](../authors/author_A5086101865.md)
+- [Kariryaa, Ankit](../authors/author_A5024785374.md)
+- [Kozinsky, Boris](../authors/author_A5075010416.md)
+- [Kumbhar, Snehal](../authors/author_A5112700498.md)
+- [Liu, Mohan](../authors/author_A5081146447.md)
+- [Marzari, Nicola](../authors/author_A5005167296.md)
+- [Morris, Andrew J](../authors/author_A5082700445.md)
+- [Mostofi, Arash A](../authors/author_A5026919665.md)
+- [Persson, Kristin A](../authors/author_A5037535334.md)
+- [Petretto, Guido](../authors/author_A5009212046.md)
+- [Purcell, Thomas](../authors/author_A5028889888.md)
+- [Ricci, Francesco](../authors/author_A5080219061.md)
+- [Rose, Frisco](../authors/author_A5103438158.md)
+- [Scheffler, Matthias](../authors/author_A5067145443.md)
+- [Speckhard, Daniel](../authors/author_A5061862557.md)
+- [Uhrin, Martin](../authors/author_A5000222326.md)
+- [Vaitkus, Antanas](../authors/author_A5065651218.md)
+- [Villars, Pierre](../authors/author_A5059844187.md)
+- [Waroquiers, David](../authors/author_A5060146609.md)
+- [Wolverton, Chris](../authors/author_A5087949669.md)
+- [Wu, Michael](../authors/author_A5103507681.md)
+- [Yang, Xiaoyu](../authors/author_A5065275359.md)

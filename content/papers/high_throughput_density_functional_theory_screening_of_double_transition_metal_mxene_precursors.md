@@ -42,3 +42,5 @@ authors:
 - [Computational design of double transition metal MXenes with intrinsic magnetic properties](../outgoing_citations/computational_design_of_double_transition_metal_mxenes_with_intrinsic_magnetic_properties.md)
 - [High-throughput density functional theory screening of double transition metal MXene precursors](../outgoing_citations/high_throughput_density_functional_theory_screening_of_double_transition_metal_mxene_precursors.md)
 - [High-Throughput Density Functional Theory Screening of Double Transition Metal MXene Precursors](../outgoing_citations/high_throughput_density_functional_theory_screening_of_double_transition_metal_mxene_precursors.md)
+- [VASP ingestor](../outgoing_citations/vasp_ingestor.md)
+- [VASP ingestor](../outgoing_citations/vasp_ingestor.md)
